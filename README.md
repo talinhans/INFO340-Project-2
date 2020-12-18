@@ -1,3 +1,21 @@
+# Project Overview and Use Case
+
+This project is for INFO 340 Project 2. It is a single page application for a fictional local bussiness called Fusion Eatery. All Files have been added to the repository except packages.\
+
+
+It displays a menu of availible dishes for any customers. The dishes are fetched\
+from a real-time database created using Firebase. The website also offers an admin\
+panel which gives authorised users the ability to add dishes to the real time    \
+database.
+The project is hosted using FireBase. \
+
+[Here's the link to the Live project](https://fusion-eatery.web.app/)
+
+
+# Running the Project locally
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), Firebase, HTML, CSS, and JavaSript.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
